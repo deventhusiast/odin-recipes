@@ -1,0 +1,18 @@
+body{
+	background:#c2c2d6;
+}
+div{
+	max-width: 500px;
+	margin:auto;
+	background: #fff; 
+	border-radius: 10px;
+	padding: 10px;
+}
+img{
+	border-radius: 5px;
+	width: 70%;
+	margin: 25px 55px;
+}
+hr{
+	border: 2px solid #666699;
+}
