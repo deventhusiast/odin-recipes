@@ -1,17 +1,26 @@
 body{
 	background:#c2c2d6;
+	font-family: Arial, Helvetica, sans-serif;
 }
 div{
-	max-width: 500px;
-	margin:auto;
-	background: #fff; 
+	max-width: 80%;
+	margin: 2rem auto;
+	padding: 1.5rem;
 	border-radius: 10px;
-	padding: 10px;
+	background-color: #fff;
 }
 img{
 	border-radius: 5px;
-	width: 70%;
-	margin: 25px 55px;
+	display: block;
+	width: 300px;
+	margin: 0 auto;
+}
+ul li{
+	padding-block: 0.3rem;
+}
+a{
+	display: block;
+	padding: 0.3rem;
 }
 hr{
 	border: 2px solid #666699;
